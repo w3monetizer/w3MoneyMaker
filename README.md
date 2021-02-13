@@ -1,6 +1,6 @@
-# Agile BlockChain Monetizer App
+# Web Money Maker App
 
-natural collaboration engine / social monetization protocol - PoC
+web collaboration engine / social monetization protocol - PoC
 
 ## Branches:
 
