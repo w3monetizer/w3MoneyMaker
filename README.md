@@ -1,4 +1,4 @@
-# Full Stack Social Monetizer App
+# Agile BlockChain Monetizer App
 
 natural collaboration engine / social monetization protocol - PoC
 
